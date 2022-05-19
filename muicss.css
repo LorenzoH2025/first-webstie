@@ -1,0 +1,67 @@
+li{
+    color: bisque;
+}
+
+h1{
+    color: gold;
+}
+
+h2{
+    background-color: blanchedalmond;
+}
+
+h3{
+    color: aqua;
+}
+
+h4{
+    color: brown;
+}
+
+a{
+    height: auto;
+}
+span{
+    float: inline-end;
+}
+ul{
+  font-size: 1.024rem;
+}
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+
+  body{
+    background-image: url(Screen\ Shot\ 2022-05-18\ at\ 6.04.10\ PM.png);
+  }
+
+  p{
+      color: yellowgreen;
+  }
+  dd{
+      color: olivedrab;
+  }
+
+  dt{
+      color: lightgreen;
+  }
+
+  th{
+      color: mediumseagreen;
+  }
+  td{
+color: tan;
+  }
+  tr{
+      color: yellow;
+  }
