@@ -19,3 +19,7 @@ function pythagore_function(cote1,cote2,cote3)  {
       alert("ce triangle n'est pas rectangle")
     }
 }
+
+function PairOuImpaire(chiffre) {
+alert("luv chiken")
+}
